@@ -29,7 +29,7 @@ SEMANTIC_REFRESH_S=60
 ## have a try:
 
 ```powershell
-cd H:\Unity_Projects\cyber_life\Tools\perception_service
+cd .\cyber_life\Tools\perception_service
 .\run.ps1
 ```
 
